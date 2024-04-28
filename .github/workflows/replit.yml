@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Keep Replit Project Alive
-        run: curl -sI https://replit.com/@astvstreamingtv/vodphp > /dev/null
+        run: curl -sI https://f0f5a7c1-da16-4165-bc07-846658a23dd7-00-3a8h0bq0ie72q.pike.replit.dev/ > /dev/null
